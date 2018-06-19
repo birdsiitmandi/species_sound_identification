@@ -63,6 +63,7 @@ Make sure that your train data is kept in "./data/melfilter48/multi_train" folde
 
 The classes are named as c01, c02, c03 for convenience. The order is the same as it is in "classes.txt" file.
 
+MFCC features are extracted using feature_extract.m
 
 
 ### Pre-processing the data.
